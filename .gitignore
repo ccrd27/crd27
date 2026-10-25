@@ -1,0 +1,14 @@
+/build/
+/build-*/
+/results/
+/nohup/
+*.log
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+__pycache__/
+.DS_Store
+Thumbs.db
